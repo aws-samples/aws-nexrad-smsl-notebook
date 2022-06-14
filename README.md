@@ -1,4 +1,4 @@
-# Updated introduction to S3, Boto and NOAA Nexrad
+# Updated introduction to S3, Boto, and NOAA Nexrad
 Adapted from and thank you to Scott Collis, ARM precipitation radar instrument translator (see <a href="https://github.com/openradar/AMS_radar_in_the_cloud/blob/master/notebooks/introduction%20to%20S3%2C%20Boto%20and%20Nexrad%20on%20S3%20with%20a%20hurricane%20chaser.ipynb">here</a>) and the original tutorial by Valliappa Lakshmanan, formerly at Climate Corp now at Google.  This version is updated to use AWS SageMaker Studio Lab and Python 3.8.
 
 <hr>
