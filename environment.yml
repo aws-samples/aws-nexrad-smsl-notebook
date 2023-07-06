@@ -10,3 +10,7 @@ dependencies:
 - netcdf4
 - xarray
 - scipy
+- boto3
+- boto
+- arm_pyart
+- cartopy
