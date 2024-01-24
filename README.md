@@ -4,7 +4,7 @@ Adapted from and thank you to Scott Collis, ARM precipitation radar instrument t
 <hr>
 
 ## AWS SageMaker Studio Lab
-You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and then "build conda environment" when prompted.
+You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 8 hours with CPU per day, and then logout and log back in the next day for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and then "build conda environment" when prompted.
 
 When it's done installing and configuring the conda environment, open the "Nexrad_Demo.ipynb" notebook.  Click-Enter to run each row and wait a moment to see the results of each line before proceeding to the next. The line marker should change to a number when it's successfully run that line, ie "[5]" means that it has run line 5.
 
