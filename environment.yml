@@ -6,7 +6,12 @@ dependencies:
 - python>=3.8
 - numpy
 - matplotlib
-- jupyter
 - netcdf4
 - xarray
 - scipy
+- boto3
+- arm_pyart
+- cartopy
+- ipykernel
+
+#- jupyter
